@@ -1,8 +1,45 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
+title: "FB-Tagung-Doku"
 theme: just-the-docs
 
-url: https://just-the-docs.github.io
+url: 
 
-aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+# Navigation (Seitenstruktur)
+nav:
+  - title: Startseite
+    url: /
+  - title: Gesamtpräsentation
+    url: /gesamtpraesentation
+
+  - title: Workshops
+    children:
+      - title: Belastbarkeit & Beziehungsarbeit
+        url: /Workshops/belastbarkeit-und-beziehungsarbeit
+      - title: Erfahrungsaustausch Fans & Polizei
+        url: /Workshops/erfahrungsaustausch-fans-und-polizei
+      - title: Fanarbeit unter Druck – Karlsruher Urteil
+        url: /Workshops/karlsruher-urteil
+      - title: Fankulturelle Entwicklungen
+        url: /Workshops/fankulturelle-entwicklungen
+      - title: Frauenbundesliga
+        url: /Workshops/frauenbundesliga
+      - title: Jugendfanarbeit
+        url: /Workshops/jugendfanarbeit
+      - title: Lasst uns mal drüber reden! 2 Jahre FB D&I
+        url: /Workshops/fb-di
+      - title: Vorbereitet sein für kritische Situationen
+        url: /Workshops/kritische-situationen
+      - title: Zukunft FZM
+        url: /Workshops/zukunft-fzm
+
+  - title: Panels
+    children:
+      - title: Awareness sexualisierte Gewalt
+        url: /Panels/awareness
+      - title: Inklusive Kommunikation bei Hörbehinderung
+        url: /Panels/inklusive-kommunikation
+      - title: Kenntnisse und Einfluss
+        url: /Panels/kenntnisse-und-einfluss
+      - title: Spieltage & Reiseweg
+        url: /Panels/spieltag-reiseweg
+      - title: Pyrotechnik
+        url: /Panels/pyrotechnik
