@@ -1,3 +1,9 @@
+---
+title: Vorbereitet sein für kritische Situationen
+parent: Workshops
+nav_order: 8
+---
+
 # Vorbereitet sein für kritische und schwierige Situationen
 In kritischen oder schwierigen Situationen stehen wir oft unter erheblichem Druck, Stress oder Angst. All das erschwert es, voll handlungsfähig
 zu sein und flexibel auf Situationen zu reagieren. Das kurzfristige Erleben von Schock und Ohnmacht wirkt sich zudem negativ auf die
