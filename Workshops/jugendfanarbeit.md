@@ -1,3 +1,9 @@
+---
+title: Jugendfanarbeit
+parent: Workshops
+nav_order: 6
+---
+
 # Jugendfanarbeit
 Die Arbeit mit jugendlichen Fans nimmt einen immer wichtigeren Stellenwert ein. In diesem Workshop wird es darum gehen, was die Vereine
 bereits tun, um Jugendliche anzusprechen und Angebote zu schaffen. Darüber hinaus wird thematisiert, inwiefern das künftige Netzwerk
