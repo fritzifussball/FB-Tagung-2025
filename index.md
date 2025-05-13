@@ -1,10 +1,10 @@
 ---
 layout: home
-title: Startseite
+title: # **FB-Tagung 2025 - Dokumentation**
 nav_order: 1
 ---
 
-# **FB-Tagung 2025 - Dokumentation**
+
 
 Hier findet ihr die Gesamtpräsentation, sowie eine übersichtliche Zusammenstellung der Workshops und Panels. Die Inhalte sind in Kapitel gegliedert, die ihr über das **Navigationsmenü auf der linken Seite** erreichen können.
 
