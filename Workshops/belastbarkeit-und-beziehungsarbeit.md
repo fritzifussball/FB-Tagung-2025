@@ -4,8 +4,6 @@ parent: Workshops
 nav_order: 1
 ---
 
-
-
 # Belastbarkeit von Beziehungsarbeit
 Fanbeauftragte bewegen sich oft im Spannungsfeld gegensätzlicher Erwartungen. Agierend als Vermittler zwischen den Fans und dem Verein,
 werden sie nicht selten von Akteuren als zur Gegenseite angehörig gesehen. Die Nähe zu den Fans dient als Basis der Arbeit, doch stellen sich
