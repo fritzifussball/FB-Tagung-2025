@@ -1,3 +1,8 @@
+---
+layout: home
+title: Startseite
+nav_order: 1
+---
 
 # **FB-Tagung 2025 - Dokumentation**
 
