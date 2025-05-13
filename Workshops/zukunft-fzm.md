@@ -1,3 +1,9 @@
+---
+title: Zukunft FZM
+parent: Workshops
+nav_order: 9
+---
+
 # Zukunft Fan- und Zuschauendenmanagement
 Die Professionalisierung der Fanarbeit von Fanbeauftragten ist das Ziel des Zertifikatsstudiums 'Fan- und Zuschauendenmanagement' der FH
 Potsdam und der Uni Kassel. Nach vier Durchgängen seit 2017 ist es an der Zeit, in die Zukunft zu blicken. Als Verantwortliche (Martin Seip)
