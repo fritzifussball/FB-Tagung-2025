@@ -1,3 +1,10 @@
+---
+title: Erfahrungsaustausch Fans und Polizei
+parent: Workshops
+nav_order: 2
+---
+
+
 # Erfahrungsaustausch Fans und Polizei
 Das Thema Fans und Polizei ist nicht neu aber immer (wieder) aktuell.
 Der Workshop bietet Raum für Austausch über aktuelle Entwicklungen zum Verhältnis Fans und Polizei. Die Fanbeauftragten können
