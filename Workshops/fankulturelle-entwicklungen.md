@@ -1,3 +1,11 @@
+---
+title: Fankulturelle Entwicklungen
+parent: Workshops
+nav_order: 4
+---
+
+
+
 # Fankulturelle Entwicklungen – Austausch, Einordnung und Umgang
 Spätestens seit Beendigung der Corona-Maßnahmen sind an vielen Standorten fankulturelle Entwicklungen wahrnehmbar: Einerseits geprägt
 durch einen starken Zulauf junger Fans in die aktiven Fanszenen, andererseits auch durch eine Zunahme an gewalttätigen Vorfällen,
