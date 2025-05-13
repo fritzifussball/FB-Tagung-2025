@@ -1,8 +1,8 @@
 title: FB-Tagung-Doku
 theme: just-the-docs
 
-baseurl: "/FB-Tagung-2025"
 url: https://fritzifussball.github.io/FB-Tagung-2025/
+baseurl: "/FB-Tagung-2025"
 
 # Navigation (Seitenstruktur)
 nav:
