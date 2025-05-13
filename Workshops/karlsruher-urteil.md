@@ -1,3 +1,9 @@
+---
+title: Fanarbeit unter Druck - Karlsruher Urteil
+parent: Workshops
+nav_order: 3
+---
+
 # Fanarbeit unter Druck!? Konsequenzen des Karlsruher Urteils
 Fanprojektmitarbeiter*innen des Fanprojekt Karlsruhe wurden wegen des Vorwurfs der Strafvereitelung vom Amtsgericht Karlsruhe zu
 Geldstrafen verurteilt: sie verweigerten die Aussage gegen Fans in einem Pyro-Prozess. Zwischenzeitlich wurde sogar Beugehaft beantragt.
