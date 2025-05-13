@@ -1,6 +1,6 @@
 ---
 layout: home
-title: # **FB-Tagung 2025 - Dokumentation**
+title: FB-Tagung 2025 - Dokumentation
 nav_order: 1
 ---
 
